@@ -1,0 +1,27 @@
+Notes
+
+#Apex Triggers - enable you to perform custom actions before or after events to records in Salesforce, such as insertions, updates, or deletions.
+
+#Trigger Syntax
+trigger TriggerName on ObjectName (trigger_events) {
+   code_block
+}
+
+#Events
+	*before insert
+	*before update
+	*before delete
+	*after insert
+	*after update
+	*after delete
+	*after undelete
+	
+#Types of Triggers
+	*Before Triggers - used to update or validate record values before they’re saved to the database.
+	*After Triggers - used to access field values that are set by the system (such as a record's Id or LastModifiedDate field), and to affect changes in other records. The records that fire the after trigger are read-only.
+	
+	
+#Resource:
+	*https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_develop_create_trigger.htm
+	
+	

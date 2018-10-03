@@ -1,0 +1,122 @@
+[
+    [
+        "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537413430785,
+            "changeTime": 1537413430785,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537413430786,
+            "changeTime": 1537413430786,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537416272156,
+            "changeTime": 1537416272156,
+            "contentHash": "7a8e0c87b99ff1a2766f664f9c52a7d8d603efec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537416256195,
+            "changeTime": 1537416256195,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app\\main\\default\\triggers",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537416272184,
+            "changeTime": 1537416272184,
+            "contentHash": "161dbd06971141d7207b86b3c80e8122ba593006",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app\\main\\default\\triggers\\AccountAddressTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app\\main\\default\\triggers\\AccountAddressTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 76,
+            "modifiedTime": 1537416272183,
+            "changeTime": 1537416272183,
+            "contentHash": "78ca8b9548d949806ab71483144b132cd635b5b3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app\\main\\default\\triggers\\AccountAddressTrigger.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1\\force-app\\main\\default\\triggers\\AccountAddressTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1537416272188,
+            "changeTime": 1537416272188,
+            "contentHash": "71e567fb6679b2c3ac4908ebfc14e50b3ca73c17",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\User\\Desktop\\Trailheads\\Salesforce-Apex-Triggers\\Trial1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537414526878,
+            "changeTime": 1537414526878,
+            "contentHash": "6a642e92108de6fab84f9ae8634b70e4a6300248",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
